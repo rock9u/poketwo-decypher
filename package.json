@@ -1,0 +1,31 @@
+{
+  "name": "poketwo-decypher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "antd": "4.16.11",
+    "autoprefixer": "9.7.4",
+    "babel-preset-react": "6.24.1",
+    "emotion": "9.2.12 - latest",
+    "postcss-cli": "7.1.0",
+    "react": "17.0.2",
+    "react-copy-to-clipboard": "5.0.3",
+    "react-dom": "17.0.2",
+    "react-emotion": "10.0.0",
+    "tailwind": "4.0.0",
+    "tailwindcss": "1.2.0",
+    "tailwindcss-jsx": "0.0.19",
+    "tailwindjs": "0.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.4.14",
+    "@types/react-dom": "16.0.8",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
